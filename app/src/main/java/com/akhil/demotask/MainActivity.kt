@@ -107,7 +107,7 @@ class MainActivity : BaseActivity(), KodeinAware, View.OnClickListener {
                     }
 
                 } else{
-                    Toast.makeText(applicationContext, "", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(applicationContext, "Please select image", Toast.LENGTH_SHORT).show()
                 }
 
             }
