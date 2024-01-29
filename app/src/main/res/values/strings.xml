@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demotask</string>
+    <string name="lbl_select_image">Select Image</string>
+    <string name="lbl_preview_image">Preview Image</string>
+    <string name="lbl_submit">Submit</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="connection_error">Not connected to the internet. Please check that you are connected to the internet.</string>
+    <string name="server_not_responding">Sorry for inconvenience, please try again later.</string>
+    <string name="please_check_your_internet_connection_and_try_again">Please check your internet connection and try again.</string>
+    <string name="lbl_msg_alert"> Internet Connection Alert</string>
+    <string name="lbl_ok">OK</string>
+</resources>
